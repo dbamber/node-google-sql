@@ -1,0 +1,46 @@
+{
+   "name": "node-google-sql",
+   "version": "0.1.0",
+   "description": "Simple package which provides methods to convert between lat/long and easting/northings",
+   "author": "David Bamber <dbamber@gmail.com>",
+   "keywords": [
+       "google",
+       "fusion",
+       "sql" 
+   ],
+   "main": "./lib.js",
+   
+   "maintainers": [
+       {
+           "name": "David bamber",
+           "email": "dbamber@gmail.com",
+           "web": "http://bmbr.co" 
+       } 
+   ],
+   "contributors": [
+       {
+           "name": "David bamber",
+           "email": "dbamber@gmail.com",
+           "web": "http://bmbr.co" 
+       } 
+   ],
+   "bugs": {
+       "mail": "dbamber@gmail.com"
+
+   },
+   "licenses": [
+       {
+           "type": "GPLv2"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://dbamber@github.com/dbamber/node-google-sql.git" 
+       } 
+   ],
+	"dependencies": {
+		"csv": "latest",
+		"googleclientlogin": "latest"	
+	}
+}
