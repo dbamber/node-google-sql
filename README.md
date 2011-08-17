@@ -6,3 +6,12 @@ Please get in touch if you use this or would like more information.
 
 More to follow
 
+## Install
+```
+npm install node-google-sql
+```
+
+## Usage
+
+Some example usage to get you started...
+
