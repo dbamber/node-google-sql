@@ -1,7 +1,7 @@
 {
    "name": "node-google-sql",
-   "version": "0.1.0",
-   "description": "Simple package which provides methods to convert between lat/long and easting/northings",
+   "version": "0.1.1",
+   "description": "Access to the google sql (fusion table) api",
    "author": "David Bamber <dbamber@gmail.com>",
    "keywords": [
        "google",
