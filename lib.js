@@ -18,7 +18,6 @@ exports.login = function(username,password,onLogin)
   	exports.ga.on(exports.gac.events.error, function(e) {
   		
   		console.log('ERROR');
-  		console.log(JSON.stringify(e));
   	});
   	
   	exports.ga.login();
