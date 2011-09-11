@@ -1,6 +1,6 @@
 {
    "name": "node-google-sql",
-   "version": "0.1.1",
+   "version": "0.1.2",
    "description": "Access to the google sql (fusion table) api",
    "author": "David Bamber <dbamber@gmail.com>",
    "keywords": [
