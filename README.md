@@ -12,6 +12,12 @@ More to follow
 ```
 npm install node-google-sql
 ```
+## Test script
+I have included a small test file. It should let you know that everything is up and running 
+
+```
+node test.js <username> <password>
+```
 
 ## Usage
 
